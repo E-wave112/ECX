@@ -1,0 +1,50 @@
+
+.my-nav, .core, .vision, .citadel, .philosophy, .border, .search{
+    background-color: rgb(102, 123, 212);
+}
+
+.footer{
+    background-color: rgb(5, 5, 122);
+}
+
+body{
+    background-color: white;
+}
+
+.search{
+    text-align: center;
+    color: white;
+    border: 1px solid green;
+}
+
+.fab{
+    color: white;
+}
+
+.button{
+    color: green;
+    border: 1px solid white;
+    background-color: rgb(102, 123, 212);
+}
+
+.button-1{
+    color: white;
+    background-color: green;
+    border-color: none;
+}
+
+.search{
+    width: 100px;
+}
+
+.card{
+    border-radius: none;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: white;
+}
